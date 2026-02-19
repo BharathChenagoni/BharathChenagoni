@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<br>🌱 I’m currently learning Data Science At Innomatics Research Labs<br> Graduated at VBIT in 2023 with the stream of Computer Science in B.Tech
 
 
 ## 🌐 Socials:
